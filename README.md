@@ -1,6 +1,6 @@
 ## About
-This is a proof-of-concept repository on work-in-progress web application that manages digital magic the gathering decks.
-This web app will include both the physical game, as well as Magic the Gathering Arena using the Scryfall API.
+This is a proof-of-concept repository on a work-in-progress web application that manages digital magic the gathering decks.
+This web app will include both the physical game, and Magic the Gathering Arena using the Scryfall API.
 
 ## Table of Contents
 - [Installation] (#installation)

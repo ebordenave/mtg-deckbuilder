@@ -21,12 +21,10 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## About
-___
 This is a proof-of-concept repository on work-in-progress web application that manages digital magic the gathering decks.
 This web app will include both the physical game, as well as Magic the Gathering Arena using the Scryfall API.
 
 ## Table of Contents
-___
 - [Installation] (#installation)
 - [Usage] (#installation)
 - [Contributing] (#installation)
